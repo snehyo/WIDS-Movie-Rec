@@ -10,11 +10,11 @@ This repository contains Jupyter Notebook assignments focused on **data preproce
 
 ---
 ## Tasks Completed
-Imported the dataset using pandas 
-Counted number of movies in each genre and represented it in form of a bar graph
-Merged 3 datasets to form a master dataset for further operations
-Extracted keywords from each movie with help of stemming
-Sorted each movie based on popularity
+-Imported the dataset using pandas 
+-Counted number of movies in each genre and represented it in form of a bar graph
+-Merged 3 datasets to form a master dataset for further operations
+-Extracted keywords from each movie with help of stemming
+-Sorted each movie based on popularity
 
 ## Assignment Summary
 
