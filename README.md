@@ -1,4 +1,4 @@
-# WIDS Movie Recommendation System – Assignments
+# WIDS Movie Recommendation System
 
 This repository contains Jupyter Notebook assignments focused on **data preprocessing and feature engineering** for a movie recommendation system.
 
